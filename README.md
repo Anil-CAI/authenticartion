@@ -29,9 +29,6 @@ cd user-authentication-flask
 2️⃣ Install Dependencies
 Install the required Python libraries using pip:
 ```
-bash
-Copy
-Edit
 pip install flask werkzeug
 ```
 3️⃣ Run the Flask Application 🏃‍♂️
